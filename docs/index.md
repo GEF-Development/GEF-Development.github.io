@@ -6,9 +6,6 @@ hero:
   name: "GEF | Galactus Engine Forum"
   text: "forum containing the development of several devices"
   tagline: "BY : kazusakiii27, miracleprjkt (fatt), Massatrio16"
-  image:
-   src: /icon/geficon.jpg
-   alt: GEF | Galactus Engine Forum
   actions:
     - theme: brand
       text: GEF Forum On Telegram
