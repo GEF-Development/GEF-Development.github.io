@@ -1,6 +1,6 @@
 ---
-title: "Download CUSTOM RECOVERY Infinix MTK Series"
-description: "Download Page Custom Recovery For Infinix MTK Series"
+title: "Download CUSTOM RECOVERY Itel Unisoc Series"
+description: "Download Page Custom Recovery For Itel Unisoc Series"
 ---
 
 :::details Availability Table
